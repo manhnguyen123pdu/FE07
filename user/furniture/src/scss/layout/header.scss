@@ -1,0 +1,62 @@
+header {
+
+    .header__top {
+         background-color:$cl-2;
+        .content {
+            @include text(white,$fz-0,normal,1px, 0px);
+            max-width: 1250px;
+            padding: 15px;
+            margin: auto;
+            display: flex;
+            justify-content: space-between;
+            ul {
+                display: flex;
+                gap: 15px;
+                list-style: none;
+            }
+        }
+    }
+    .header__main{
+        max-width: 1250px;
+        margin:10px  auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        .logo{
+            img{
+                width: 150px;
+            }
+        }
+        nav{
+           ul{
+             display: flex;
+             gap: 20px;
+             list-style: none;
+             li{
+                @include text($cl-1,$fz-1,500, 0,0)
+             }
+           }
+        }
+        .info{
+            display: flex;
+            .search{
+                border: 1px solid $cl-3;
+                border-radius: 8px;
+                overflow: hidden;
+                margin-right: 20px;
+                input{
+                    padding: 8px 10px;
+                    border: 0;
+                }
+                button{
+                    padding: 8px 10px;
+                    border: 0;
+                    background: $cl-0;
+                }
+            }
+            .icon{
+                padding: 8px 10px;
+            }
+        }
+    }
+}

@@ -1,0 +1,1001 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Giường ngủ Scandinavian",
+      "slug": "giuong-ngu-scandinavian",
+      "category": "Giường ngủ",
+      "brand": "Furniture",
+      "price": 9900000,
+      "oldPrice": 13500000,
+      "discount": 27,
+      "rating": 4.8,
+      "reviewCount": 128,
+      "sold": 356,
+      "shortDescription": "Giường ngủ phong cách Bắc Âu với thiết kế tối giản, chất liệu gỗ tự nhiên cao cấp mang đến không gian nghỉ ngơi ấm cúng và tinh tế.",
+      "description": "Giường ngủ Scandinavian là sự kết hợp hoàn hảo giữa thiết kế tối giản và công năng sử dụng. Sản phẩm được chế tác từ gỗ tự nhiên cao cấp, bền bỉ theo thời gian, mang đến không gian phòng ngủ ấm cúng, hiện đại và tinh tế.",
+      "images": [
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/Scandinavian/1.jpg?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/Scandinavian/2.jpg?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/Scandinavian/3.jpg?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/Scandinavian/4.jpg?raw=true"
+      ],
+      "variants": {
+        "sizes": ["160x200cm", "180x200cm", "200x220cm"],
+        "materials": ["Gỗ sồi tự nhiên", "Gỗ cao su", "Gỗ óc chó"],
+        "colors": [
+          {
+            "name": "Tự nhiên",
+            "code": "#C89B67"
+          },
+          {
+            "name": "Nâu",
+            "code": "#8B5A2B"
+          },
+          {
+            "name": "Nâu đậm",
+            "code": "#6A625A"
+          }
+        ]
+      },
+      "stock": 50,
+      "sku": "BED-SCAN-001",
+      "features": [
+        "Chất liệu gỗ sồi tự nhiên",
+        "Bề mặt phủ PU chống trầy xước",
+        "Phong cách Scandinavian / Bắc Âu",
+        "Thiết kế tối giản",
+        "Độ bền cao"
+      ],
+      "specifications": {
+        "material": "Gỗ sồi tự nhiên",
+        "sizes": ["160x200cm", "180x200cm", "200x220cm"],
+        "colors": ["Tự nhiên", "Nâu", "Nâu đậm"],
+        "surface": "Phủ sơn PU chống trầy xước",
+        "style": "Scandinavian",
+        "warranty": "12 tháng"
+      },
+      "shipping": {
+        "freeShipping": true,
+        "minimumOrder": 2000000,
+        "returnDays": 7,
+        "warrantyMonths": 12
+      },
+      "tags": [
+        "Giường ngủ",
+        "Scandinavian",
+        "Gỗ tự nhiên",
+        "Nội thất phòng ngủ",
+        "Bắc Âu"
+      ],
+      "isFeatured": true,
+      "status": "ACTIVE",
+      "createdAt": "2026-07-11T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Sofa góc hiện đại",
+      "slug": "sofa-goc-hien-dai",
+      "category": "Sofa",
+      "brand": "Furniture",
+      "price": 15800000,
+      "oldPrice": 21500000,
+      "discount": 26,
+      "rating": 4.7,
+      "reviewCount": 95,
+      "sold": 210,
+      "shortDescription": "Sofa góc bọc vải nỉ cao cấp, khung gỗ tự nhiên, thiết kế góc chữ L tiện dụng cho phòng khách hiện đại.",
+      "description": "Sofa góc hiện đại với thiết kế chữ L thông minh giúp tối ưu không gian phòng khách. Sản phẩm được bọc vải nỉ mềm mại, khung gỗ tự nhiên chắc chắn, đệm mút cao cấp mang lại cảm giác êm ái và thoải mái khi ngồi. Màu sắc trung tính dễ phối hợp với nhiều phong cách nội thất.",
+      "images": [
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/SofaErica/1.jpg?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/SofaErica/2.jpg?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/SofaErica/3.jpg?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/SofaErica/4.jpg?raw=true"
+
+      ],
+      "variants": {
+        "sizes": ["2.3m x 1.5m", "2.6m x 1.6m", "3.0m x 1.8m"],
+        "materials": ["Vải nỉ", "Da công nghiệp", "Vải bố"],
+        "colors": [
+          { "name": "Xám tro", "code": "#A9A9A9" },
+          { "name": "Be", "code": "#F5F5DC" },
+          { "name": "Xanh rêu", "code": "#4B6A4B" }
+        ]
+      },
+      "stock": 30,
+      "sku": "SOFA-002",
+      "features": [
+        "Khung gỗ tự nhiên chắc chắn",
+        "Đệm mút cao cấp, độ đàn hồi tốt",
+        "Bọc vải nỉ mềm mại, dễ vệ sinh",
+        "Thiết kế góc chữ L thông minh",
+        "Tích hợp ngăn đựng đồ bên hông"
+      ],
+      "specifications": {
+        "material": "Khung gỗ, vải nỉ",
+        "sizes": ["2.3m x 1.5m", "2.6m x 1.6m", "3.0m x 1.8m"],
+        "colors": ["Xám tro", "Be", "Xanh rêu"],
+        "surface": "Vải nỉ chống thấm",
+        "style": "Hiện đại",
+        "warranty": "24 tháng"
+      },
+      "shipping": {
+        "freeShipping": true,
+        "minimumOrder": 1500000,
+        "returnDays": 7,
+        "warrantyMonths": 24
+      },
+      "tags": ["Sofa", "Phòng khách", "Hiện đại", "Góc", "Vải nỉ"],
+      "isFeatured": true,
+      "status": "ACTIVE",
+      "createdAt": "2026-07-11T10:30:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Bàn ăn gỗ óc chó 6 ghế",
+      "slug": "ban-an-go-oc-cho-6-ghe",
+      "category": "Bàn ghế",
+      "brand": "Furniture",
+      "price": 22500000,
+      "oldPrice": 28000000,
+      "discount": 20,
+      "rating": 4.9,
+      "reviewCount": 203,
+      "sold": 89,
+      "shortDescription": "Bàn ăn gỗ óc chó tự nhiên, mặt bàn dày dặn, thiết kế tối giản sang trọng, bền vững với thời gian.",
+      "description": "Bàn ăn gỗ óc chó cao cấp được tuyển chọn từ những khúc gỗ già, đường vân đẹp mắt. Sản phẩm có kích thước lớn, phù hợp cho gia đình 6 người. Mặt bàn được xử lý chống trầy, chống ẩm, giữ màu sắc tự nhiên. Chân bàn bằng thép sơn tĩnh điện tạo sự vững chắc và phong cách hiện đại.",
+      "images": [
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/B%C3%A0n%20%C4%83n%20g%E1%BB%97%20%C3%B3c%20ch%C3%B3%206%20gh%E1%BA%BF/1.webp?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/B%C3%A0n%20%C4%83n%20g%E1%BB%97%20%C3%B3c%20ch%C3%B3%206%20gh%E1%BA%BF/2.webp?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/B%C3%A0n%20%C4%83n%20g%E1%BB%97%20%C3%B3c%20ch%C3%B3%206%20gh%E1%BA%BF/3.webp?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/B%C3%A0n%20%C4%83n%20g%E1%BB%97%20%C3%B3c%20ch%C3%B3%206%20gh%E1%BA%BF/4.webp?raw=true"
+
+      ],
+      "variants": {
+        "sizes": ["180x90x75cm", "200x100x75cm", "220x110x75cm"],
+        "materials": ["Gỗ óc chó", "Gỗ sồi", "Gỗ tần bì"],
+        "colors": [
+          { "name": "Óc chó tự nhiên", "code": "#4A3B2C" },
+          { "name": "Sồi nhạt", "code": "#D4B896" },
+          { "name": "Tần bì trắng", "code": "#EFE0D0" }
+        ]
+      },
+      "stock": 15,
+      "sku": "TABLE-003",
+      "features": [
+        "Gỗ óc chó nhập khẩu, đường vân đẹp",
+        "Mặt bàn phủ PU chống trầy, chống nước",
+        "Chân thép sơn tĩnh điện chắc chắn",
+        "Kích thước lớn phù hợp 6-8 người",
+        "Bảo hành 5 năm về chất lượng gỗ"
+      ],
+      "specifications": {
+        "material": "Gỗ óc chó tự nhiên",
+        "sizes": ["180x90x75cm", "200x100x75cm", "220x110x75cm"],
+        "colors": ["Óc chó tự nhiên", "Sồi nhạt", "Tần bì trắng"],
+        "surface": "Phủ PU 5 lớp",
+        "style": "Tối giản hiện đại",
+        "warranty": "60 tháng"
+      },
+      "shipping": {
+        "freeShipping": true,
+        "minimumOrder": 3000000,
+        "returnDays": 14,
+        "warrantyMonths": 60
+      },
+      "tags": [
+        "Bàn ăn",
+        "Gỗ óc chó",
+        "Nội thất phòng ăn",
+        "Cao cấp",
+        "Gia đình"
+      ],
+      "isFeatured": true,
+      "status": "ACTIVE",
+      "createdAt": "2026-07-11T11:00:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Tủ quần áo 4 cánh hiện đại",
+      "slug": "tu-quan-ao-4-canh-hien-dai",
+      "category": "Tủ kệ",
+      "brand": "Furniture",
+      "price": 12400000,
+      "oldPrice": 16000000,
+      "discount": 22,
+      "rating": 4.6,
+      "reviewCount": 167,
+      "sold": 132,
+      "shortDescription": "Tủ quần áo 4 cánh với thiết kế sang trọng, chất liệu gỗ công nghiệp MDF chống ẩm, nhiều ngăn chứa tiện lợi.",
+      "description": "Tủ quần áo 4 cánh hiện đại là giải pháp lưu trữ thông minh cho phòng ngủ. Sản phẩm sử dụng gỗ MDF chống ẩm, bề mặt phủ melamine dễ lau chùi. Thiết kế bao gồm 2 ngăn treo, 3 ngăn kéo và kệ để đồ, đáp ứng nhu cầu sắp xếp quần áo đa dạng. Bản lề cao cấp đóng mở nhẹ nhàng.",
+      "images": [
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/T%E1%BB%A7%20qu%E1%BA%A7n%20%C3%A1o%204%20c%C3%A1nh%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i/1.png?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/T%E1%BB%A7%20qu%E1%BA%A7n%20%C3%A1o%204%20c%C3%A1nh%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i/2.png?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/T%E1%BB%A7%20qu%E1%BA%A7n%20%C3%A1o%204%20c%C3%A1nh%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i/3.png?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/T%E1%BB%A7%20qu%E1%BA%A7n%20%C3%A1o%204%20c%C3%A1nh%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i/4.png?raw=true"
+       
+      ],
+      "variants": {
+        "sizes": ["120x50x200cm", "150x55x210cm", "180x60x220cm"],
+        "materials": ["MDF chống ẩm", "Melamine", "Gỗ tự nhiên"],
+        "colors": [
+          { "name": "Trắng", "code": "#FFFFFF" },
+          { "name": "Ghi", "code": "#808080" },
+          { "name": "Vàng nhạt", "code": "#F5DEB3" }
+        ]
+      },
+      "stock": 25,
+      "sku": "WARD-004",
+      "features": [
+        "Chất liệu MDF chống ẩm cao cấp",
+        "Bề mặt phủ melamine chống trầy",
+        "Bản lề giảm chấn nhập khẩu",
+        "Nhiều ngăn chứa thông minh",
+        "Tay nắm kim loại sáng bóng"
+      ],
+      "specifications": {
+        "material": "MDF chống ẩm",
+        "sizes": ["120x50x200cm", "150x55x210cm", "180x60x220cm"],
+        "colors": ["Trắng", "Ghi", "Vàng nhạt"],
+        "surface": "Melamine chống trầy",
+        "style": "Hiện đại",
+        "warranty": "24 tháng"
+      },
+      "shipping": {
+        "freeShipping": true,
+        "minimumOrder": 2000000,
+        "returnDays": 7,
+        "warrantyMonths": 24
+      },
+      "tags": ["Tủ quần áo", "Phòng ngủ", "MDF", "Hiện đại", "Lưu trữ"],
+      "isFeatured": false,
+      "status": "ACTIVE",
+      "createdAt": "2026-07-11T11:30:00Z"
+    },
+    {
+      "id": 5,
+      "name": "Kệ sách thông minh đa năng",
+      "slug": "ke-sach-thong-minh-da-nang",
+      "category": "Tủ kệ",
+      "brand": "Furniture",
+      "price": 6800000,
+      "oldPrice": 8500000,
+      "discount": 20,
+      "rating": 4.5,
+      "reviewCount": 88,
+      "sold": 170,
+      "shortDescription": "Kệ sách thiết kế mô-đun linh hoạt, có thể tùy chỉnh góc xoay, kết hợp học tập và trang trí, phù hợp mọi không gian.",
+      "description": "Kệ sách thông minh đa năng với hệ thống mô-đun cho phép sắp xếp lại vị trí các tầng kệ theo ý thích. Sản phẩm được làm từ gỗ công nghiệp cao cấp, chịu lực tốt. Ngoài chức năng lưu trữ sách, kệ còn có ngăn kéo và bàn kéo nhỏ, tiện dụng cho góc học tập. Màu sắc trẻ trung, phù hợp với không gian phòng khách hoặc phòng làm việc.",
+      "images": [
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/K%E1%BB%87%20s%C3%A1ch%20th%C3%B4ng%20minh%20%C4%91a%20n%C4%83ng/1.webp?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/K%E1%BB%87%20s%C3%A1ch%20th%C3%B4ng%20minh%20%C4%91a%20n%C4%83ng/2.webp?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/K%E1%BB%87%20s%C3%A1ch%20th%C3%B4ng%20minh%20%C4%91a%20n%C4%83ng/3.webp?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/K%E1%BB%87%20s%C3%A1ch%20th%C3%B4ng%20minh%20%C4%91a%20n%C4%83ng/4.webp?raw=true"
+      ],
+      "variants": {
+        "sizes": ["120x30x180cm", "150x35x200cm", "180x40x220cm"],
+        "materials": ["Gỗ công nghiệp MDF", "Gỗ sồi tự nhiên", "Gỗ thông"],
+        "colors": [
+          { "name": "Trắng sứ", "code": "#F8F8FF" },
+          { "name": "Vàng kem", "code": "#FFF8DC" },
+          { "name": "Xám đen", "code": "#2F2F2F" }
+        ]
+      },
+      "stock": 40,
+      "sku": "SHELF-005",
+      "features": [
+        "Thiết kế mô-đun linh hoạt",
+        "Tầng kệ có thể điều chỉnh độ cao",
+        "Ngăn kéo và bàn kéo tích hợp",
+        "Chịu lực tốt, khung thép gia cố",
+        "Lắp đặt dễ dàng, không cần khoan"
+      ],
+      "specifications": {
+        "material": "MDF chịu lực",
+        "sizes": ["120x30x180cm", "150x35x200cm", "180x40x220cm"],
+        "colors": ["Trắng sứ", "Vàng kem", "Xám đen"],
+        "surface": "Melamine",
+        "style": "Đa năng, thông minh",
+        "warranty": "12 tháng"
+      },
+      "shipping": {
+        "freeShipping": false,
+        "minimumOrder": 1000000,
+        "returnDays": 7,
+        "warrantyMonths": 12
+      },
+      "tags": ["Kệ sách", "Học tập", "Mô-đun", "Trang trí", "Lưu trữ"],
+      "isFeatured": false,
+      "status": "ACTIVE",
+      "createdAt": "2026-07-11T12:00:00Z"
+    },
+    {
+      "id": 6,
+      "name": "Bàn làm việc gỗ công nghiệp",
+      "slug": "ban-lam-viec-go-cong-nghiep",
+      "category": "Bàn ghế",
+      "brand": "Furniture",
+      "price": 3900000,
+      "oldPrice": 5200000,
+      "discount": 25,
+      "rating": 4.4,
+      "reviewCount": 212,
+      "sold": 450,
+      "shortDescription": "Bàn làm việc thiết kế hiện đại, mặt bàn rộng, chân thép chắc chắn, tích hợp cổng cáp, phù hợp văn phòng và học tập.",
+      "description": "Bàn làm việc gỗ công nghiệp với mặt bàn phủ melamine chống trầy, kích thước rộng rãi đủ đặt máy tính và tài liệu. Khung chân thép sơn tĩnh điện hình chữ Z vững chắc, chịu tải trọng lên đến 200kg. Bàn có lỗ luồn dây cáp phía sau giúp giữ gọn dây nguồn, tạo không gian làm việc gọn gàng và chuyên nghiệp.",
+      "images": [
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/B%C3%A0n%20l%C3%A0m%20vi%E1%BB%87c%20g%E1%BB%97%20c%C3%B4ng%20nghi%E1%BB%87p/1.webp?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/B%C3%A0n%20l%C3%A0m%20vi%E1%BB%87c%20g%E1%BB%97%20c%C3%B4ng%20nghi%E1%BB%87p/2.webp?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/B%C3%A0n%20l%C3%A0m%20vi%E1%BB%87c%20g%E1%BB%97%20c%C3%B4ng%20nghi%E1%BB%87p/3.webp?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/B%C3%A0n%20l%C3%A0m%20vi%E1%BB%87c%20g%E1%BB%97%20c%C3%B4ng%20nghi%E1%BB%87p/4.webp?raw=true"
+      ],
+      "variants": {
+        "sizes": ["120x60x75cm", "140x70x75cm", "160x80x75cm"],
+        "materials": ["Gỗ MDF phủ melamine", "Gỗ sồi tự nhiên", "Gỗ thông"],
+        "colors": [
+          { "name": "Trắng", "code": "#FFFFFF" },
+          { "name": "Nâu đen", "code": "#3B2F2F" },
+          { "name": "Xám", "code": "#9E9E9E" }
+        ]
+      },
+      "stock": 60,
+      "sku": "DESK-006",
+      "features": [
+        "Mặt bàn melamine chống trầy, chống ẩm",
+        "Chân thép hình Z chắc chắn, chịu tải 200kg",
+        "Lỗ luồn cáp tiện lợi",
+        "Lắp ráp nhanh, có hướng dẫn",
+        "Chiều cao chuẩn 75cm, thoải mái khi ngồi"
+      ],
+      "specifications": {
+        "material": "MDF phủ melamine",
+        "sizes": ["120x60x75cm", "140x70x75cm", "160x80x75cm"],
+        "colors": ["Trắng", "Nâu đen", "Xám"],
+        "surface": "Melamine chống trầy",
+        "style": "Hiện đại",
+        "warranty": "12 tháng"
+      },
+      "shipping": {
+        "freeShipping": true,
+        "minimumOrder": 1000000,
+        "returnDays": 7,
+        "warrantyMonths": 12
+      },
+      "tags": [
+        "Bàn làm việc",
+        "Văn phòng",
+        "Học tập",
+        "Gỗ công nghiệp",
+        "Thép"
+      ],
+      "isFeatured": false,
+      "status": "ACTIVE",
+      "createdAt": "2026-07-11T12:30:00Z"
+    },
+    {
+      "id": 7,
+      "name": "Ghế ăn Scandinavian",
+      "slug": "ghe-an-scandinavian",
+      "category": "Bàn ghế",
+      "brand": "Furniture",
+      "price": 2900000,
+      "oldPrice": 3800000,
+      "discount": 24,
+      "rating": 4.7,
+      "reviewCount": 145,
+      "sold": 290,
+      "shortDescription": "Ghế ăn phong cách Bắc Âu, khung gỗ tự nhiên, đệm mút dày, bọc vải linen thoáng khí, tạo cảm giác thoải mái.",
+      "description": "Ghế ăn Scandinavian mang vẻ đẹp tối giản, thanh lịch với khung gỗ sồi tự nhiên và đệm mút dày được bọc vải linen cao cấp. Thiết kế lưng ghế cong ôm sát cơ thể, giúp ngồi lâu không mỏi. Màu sắc trung tính dễ dàng phối hợp với mọi phong cách bàn ăn. Sản phẩm bền bỉ, dễ vệ sinh, thích hợp cho không gian ấm cúng.",
+      "images": [
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/Gh%E1%BA%BF%20%C4%83n%20Scandinavian/1.webp?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/Gh%E1%BA%BF%20%C4%83n%20Scandinavian/2.webp?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/Gh%E1%BA%BF%20%C4%83n%20Scandinavian/3.webp?raw=true"
+          ],
+      "variants": {
+        "sizes": ["45x45x85cm", "48x48x90cm", "50x50x95cm"],
+        "materials": ["Gỗ sồi + vải linen", "Gỗ cao su + nỉ", "Gỗ tần bì + da"],
+        "colors": [
+          { "name": "Xám nhạt", "code": "#D3D3D3" },
+          { "name": "Be", "code": "#F5DEB3" },
+          { "name": "Xanh mint", "code": "#98FF98" }
+        ]
+      },
+      "stock": 80,
+      "sku": "CHAIR-007",
+      "features": [
+        "Khung gỗ sồi tự nhiên chắc chắn",
+        "Đệm mút dày 8cm, mềm mại",
+        "Bọc vải linen thoáng khí, dễ tháo rời",
+        "Lưng ghế cong êm ái",
+        "Chân ghế có đế chống trượt"
+      ],
+      "specifications": {
+        "material": "Gỗ sồi + vải linen",
+        "sizes": ["45x45x85cm", "48x48x90cm", "50x50x95cm"],
+        "colors": ["Xám nhạt", "Be", "Xanh mint"],
+        "surface": "Vải linen",
+        "style": "Scandinavian",
+        "warranty": "12 tháng"
+      },
+      "shipping": {
+        "freeShipping": true,
+        "minimumOrder": 500000,
+        "returnDays": 7,
+        "warrantyMonths": 12
+      },
+      "tags": ["Ghế ăn", "Scandinavian", "Gỗ tự nhiên", "Linen", "Đệm"],
+      "isFeatured": false,
+      "status": "ACTIVE",
+      "createdAt": "2026-07-11T13:00:00Z"
+    },
+    {
+      "id": 8,
+      "name": "Gương trang trí viền gỗ hình bầu dục",
+      "slug": "guong-trang-tri-vien-go-hinh-bau-duc",
+      "category": "Trang trí",
+      "brand": "Furniture",
+      "price": 3200000,
+      "oldPrice": 4200000,
+      "discount": 24,
+      "rating": 4.6,
+      "reviewCount": 67,
+      "sold": 124,
+      "shortDescription": "Gương treo tường hình bầu dục với khung gỗ tự nhiên, thiết kế tối giản, giúp không gian phòng khách hoặc hành lang thêm thoáng đãng.",
+      "description": "Gương trang trí viền gỗ hình bầu dục là điểm nhấn tinh tế cho mọi không gian. Khung gỗ sồi tự nhiên được chạm khắc đường nét mềm mại, phủ lớp sơn bảo vệ chống ẩm. Mặt gương trong suốt, không bị méo hình, có lớp chống vỡ phía sau. Sản phẩm đi kèm móc treo chắc chắn, dễ dàng lắp đặt. Phù hợp đặt trong phòng khách, hành lang hoặc phòng tắm khô ráo.",
+      "images": [
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/G%C6%B0%C6%A1ng%20trang%20tr%C3%AD%20vi%E1%BB%81n%20g%E1%BB%97%20h%C3%ACnh%20b%E1%BA%A7u%20d%E1%BB%A5c/1.webp?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/G%C6%B0%C6%A1ng%20trang%20tr%C3%AD%20vi%E1%BB%81n%20g%E1%BB%97%20h%C3%ACnh%20b%E1%BA%A7u%20d%E1%BB%A5c/2.webp?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/G%C6%B0%C6%A1ng%20trang%20tr%C3%AD%20vi%E1%BB%81n%20g%E1%BB%97%20h%C3%ACnh%20b%E1%BA%A7u%20d%E1%BB%A5c/3.webp?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/G%C6%B0%C6%A1ng%20trang%20tr%C3%AD%20vi%E1%BB%81n%20g%E1%BB%97%20h%C3%ACnh%20b%E1%BA%A7u%20d%E1%BB%A5c/4.webp?raw=true"
+       
+      ],
+      "variants": {
+        "sizes": ["60x90cm", "70x100cm", "80x120cm"],
+        "materials": ["Gỗ sồi + kính", "Gỗ óc chó + kính", "Khung nhôm + kính"],
+        "colors": [
+          { "name": "Gỗ sồi tự nhiên", "code": "#D4B896" },
+          { "name": "Óc chó", "code": "#4A3B2C" },
+          { "name": "Trắng", "code": "#FFFFFF" }
+        ]
+      },
+      "stock": 35,
+      "sku": "MIRROR-008",
+      "features": [
+        "Khung gỗ tự nhiên chống ẩm",
+        "Mặt kính trong suốt, không méo hình",
+        "Lớp chống vỡ an toàn phía sau",
+        "Móc treo chắc chắn, dễ lắp đặt",
+        "Thiết kế bầu dục mềm mại"
+      ],
+      "specifications": {
+        "material": "Gỗ sồi + kính cường lực",
+        "sizes": ["60x90cm", "70x100cm", "80x120cm"],
+        "colors": ["Gỗ sồi tự nhiên", "Óc chó", "Trắng"],
+        "surface": "Kính trong, phủ chống vỡ",
+        "style": "Tối giản, Bắc Âu",
+        "warranty": "6 tháng"
+      },
+      "shipping": {
+        "freeShipping": true,
+        "minimumOrder": 1500000,
+        "returnDays": 7,
+        "warrantyMonths": 6
+      },
+      "tags": [
+        "Gương",
+        "Trang trí",
+        "Treo tường",
+        "Phòng khách",
+        "Gỗ tự nhiên"
+      ],
+      "isFeatured": false,
+      "status": "ACTIVE",
+      "createdAt": "2026-07-11T16:00:00Z"
+    },
+    {
+      "id": 9,
+      "name": "Đèn thả trần phong cách Bắc Âu",
+      "slug": "den-tha-tran-phong-cach-bac-au",
+      "category": "Đèn trang trí",
+      "brand": "Furniture",
+      "price": 4600000,
+      "oldPrice": 6100000,
+      "discount": 25,
+      "rating": 4.9,
+      "reviewCount": 142,
+      "sold": 87,
+      "shortDescription": "Đèn thả trần thiết kế quả cầu bằng kim loại đen, dây dài có thể điều chỉnh, tạo điểm nhấn nghệ thuật cho phòng ăn hoặc phòng khách.",
+      "description": "Đèn thả trần phong cách Bắc Âu với cụm 3 quả cầu kim loại sơn đen mờ, khung đèn chắc chắn, phối hợp với dây cáp điều chỉnh độ dài linh hoạt. Sản phẩm sử dụng bóng đèn LED E27, ánh sáng khuếch tán đều khắp không gian. Thiết kế đơn giản nhưng tinh tế, phù hợp cho bàn ăn, quầy bar hoặc phòng khách hiện đại. Dễ dàng lắp đặt và vệ sinh.",
+      "images": [
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/%C4%90%C3%A8n%20th%E1%BA%A3%20tr%E1%BA%A7n%20phong%20c%C3%A1ch%20B%E1%BA%AFc%20%C3%82u/1.jpg?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/%C4%90%C3%A8n%20th%E1%BA%A3%20tr%E1%BA%A7n%20phong%20c%C3%A1ch%20B%E1%BA%AFc%20%C3%82u/2.jpg?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/%C4%90%C3%A8n%20th%E1%BA%A3%20tr%E1%BA%A7n%20phong%20c%C3%A1ch%20B%E1%BA%AFc%20%C3%82u/3.jpg?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/%C4%90%C3%A8n%20th%E1%BA%A3%20tr%E1%BA%A7n%20phong%20c%C3%A1ch%20B%E1%BA%AFc%20%C3%82u/4.jpg?raw=true"
+      ],
+      "variants": {
+        "sizes": ["Đường kính 30cm", "Đường kính 40cm", "Đường kính 50cm"],
+        "materials": ["Kim loại sơn tĩnh điện", "Đồng thau", "Nhôm"],
+        "colors": [
+          { "name": "Đen mờ", "code": "#1A1A1A" },
+          { "name": "Vàng đồng", "code": "#B8860B" },
+          { "name": "Trắng", "code": "#F5F5F5" }
+        ]
+      },
+      "stock": 20,
+      "sku": "LIGHT-009",
+      "features": [
+        "Khung kim loại sơn tĩnh điện chống gỉ",
+        "Dây cáp điều chỉnh độ dài 50-120cm",
+        "Sử dụng bóng LED E27 tiết kiệm điện",
+        "Lắp đặt đơn giản, phù hợp trần cao",
+        "Ánh sáng khuếch tán đều, không chói"
+      ],
+      "specifications": {
+        "material": "Kim loại sơn tĩnh điện",
+        "sizes": ["Đường kính 30cm", "Đường kính 40cm", "Đường kính 50cm"],
+        "colors": ["Đen mờ", "Vàng đồng", "Trắng"],
+        "surface": "Sơn tĩnh điện mịn",
+        "style": "Bắc Âu, hiện đại",
+        "warranty": "12 tháng"
+      },
+      "shipping": {
+        "freeShipping": true,
+        "minimumOrder": 1500000,
+        "returnDays": 7,
+        "warrantyMonths": 12
+      },
+      "tags": ["Đèn thả", "Trần", "Bắc Âu", "Phòng ăn", "Kim loại"],
+      "isFeatured": true,
+      "status": "ACTIVE",
+      "createdAt": "2026-07-11T16:30:00Z"
+    },
+    {
+      "id": 10,
+      "name": "Set tranh treo tường 3 mảnh trừu tượng",
+      "slug": "set-tranh-treo-tuong-3-manh-truu-tuong",
+      "category": "Trang trí",
+      "brand": "Furniture",
+      "price": 2800000,
+      "oldPrice": 3700000,
+      "discount": 24,
+      "rating": 4.4,
+      "reviewCount": 98,
+      "sold": 165,
+      "shortDescription": "Set tranh treo tường 3 mảnh với họa tiết trừu tượng phong cách hiện đại, màu sắc trung tính, phù hợp phòng khách và phòng làm việc.",
+      "description": "Set tranh treo tường 3 mảnh trừu tượng được in trên chất liệu vải canvas cao cấp, khung gỗ chắc chắn. Mỗi bức tranh có kích thước khác nhau tạo bố cục lệch tầng thú vị. Màu sắc chủ đạo là xanh xám, trắng và vàng đất, dễ dàng kết hợp với nhiều phong cách nội thất. Tranh đã có móc treo sẵn, chỉ cần đóng đinh và treo lên. Thích hợp để trang trí phòng khách, phòng ngủ hoặc hành lang.",
+      "images": [
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/Set%20tranh%20treo%20t%C6%B0%E1%BB%9Dng%203%20m%E1%BA%A3nh%20tr%E1%BB%ABu%20t%C6%B0%E1%BB%A3ng/1.webp?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/Set%20tranh%20treo%20t%C6%B0%E1%BB%9Dng%203%20m%E1%BA%A3nh%20tr%E1%BB%ABu%20t%C6%B0%E1%BB%A3ng/2.webp?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/Set%20tranh%20treo%20t%C6%B0%E1%BB%9Dng%203%20m%E1%BA%A3nh%20tr%E1%BB%ABu%20t%C6%B0%E1%BB%A3ng/3.webp?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/Set%20tranh%20treo%20t%C6%B0%E1%BB%9Dng%203%20m%E1%BA%A3nh%20tr%E1%BB%ABu%20t%C6%B0%E1%BB%A3ng/4.webp?raw=true"
+      ],
+      "variants": {
+        "sizes": [
+          "60x60cm - 50x70cm - 40x60cm",
+          "70x70cm - 60x80cm - 50x70cm",
+          "80x80cm - 70x90cm - 60x80cm"
+        ],
+        "materials": [
+          "Canvas + khung gỗ",
+          "Giấy art + khung nhôm",
+          "Tranh sơn dầu"
+        ],
+        "colors": [
+          { "name": "Xanh xám - Trắng", "code": "#708090" },
+          { "name": "Vàng đất - Đen", "code": "#C5A059" },
+          { "name": "Xanh lam - Xám", "code": "#4682B4" }
+        ]
+      },
+      "stock": 45,
+      "sku": "ART-010",
+      "features": [
+        "In ấn chất lượng cao, màu sắc bền",
+        "Khung gỗ chắc chắn, chống cong vênh",
+        "Màu sắc trung tính dễ phối hợp",
+        "Bố cục 3 mảnh lệch tầng nghệ thuật",
+        "Móc treo sẵn, lắp đặt nhanh chóng"
+      ],
+      "specifications": {
+        "material": "Canvas + khung gỗ thông",
+        "sizes": [
+          "60x60 - 50x70 - 40x60",
+          "70x70 - 60x80 - 50x70",
+          "80x80 - 70x90 - 60x80"
+        ],
+        "colors": ["Xanh xám/Trắng", "Vàng đất/Đen", "Xanh lam/Xám"],
+        "surface": "Canvas phủ bóng bảo vệ",
+        "style": "Trừu tượng hiện đại",
+        "warranty": "Không bảo hành"
+      },
+      "shipping": {
+        "freeShipping": true,
+        "minimumOrder": 1000000,
+        "returnDays": 7,
+        "warrantyMonths": 0
+      },
+      "tags": [
+        "Tranh treo tường",
+        "Trừu tượng",
+        "3 mảnh",
+        "Phòng khách",
+        "Nghệ thuật"
+      ],
+      "isFeatured": false,
+      "status": "ACTIVE",
+      "createdAt": "2026-07-11T17:00:00Z"
+    },
+    {
+      "id": 11,
+      "name": "Đèn cây đứng LED 3 cấp ánh sáng",
+      "slug": "den-cay-dung-led-3-cap-anh-sang",
+      "category": "Đèn trang trí",
+      "brand": "Furniture",
+      "price": 3900000,
+      "oldPrice": 5100000,
+      "discount": 24,
+      "rating": 4.8,
+      "reviewCount": 176,
+      "sold": 203,
+      "shortDescription": "Đèn cây đứng thiết kế thanh mảnh, thân kim loại, chụp đèn xoay 360°, có 3 chế độ ánh sáng, phù hợp góc đọc sách và phòng khách.",
+      "description": "Đèn cây đứng LED 3 cấp ánh sáng là sự kết hợp hoàn hảo giữa công năng và thẩm mỹ. Thân đèn bằng kim loại sơn tĩnh điện màu đen mờ, đế đá chắc chắn chống đổ. Chụp đèn có khớp xoay 360°, dễ dàng điều chỉnh hướng sáng. Đèn trang bị công tắc cảm ứng với 3 chế độ: ánh sáng vàng ấm, trắng trung tính và trắng sáng. Chiều cao 160cm, lý tưởng để đặt cạnh ghế sofa hoặc bàn làm việc.",
+      "images": [
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/%C4%90%C3%A8n%20c%C3%A2y%20%C4%91%E1%BB%A9ng%20LED%203%20c%E1%BA%A5p%20%C3%A1nh%20s%C3%A1ng/1.jpg?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/%C4%90%C3%A8n%20c%C3%A2y%20%C4%91%E1%BB%A9ng%20LED%203%20c%E1%BA%A5p%20%C3%A1nh%20s%C3%A1ng/2.jpg?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/%C4%90%C3%A8n%20c%C3%A2y%20%C4%91%E1%BB%A9ng%20LED%203%20c%E1%BA%A5p%20%C3%A1nh%20s%C3%A1ng/3.jpg?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/%C4%90%C3%A8n%20c%C3%A2y%20%C4%91%E1%BB%A9ng%20LED%203%20c%E1%BA%A5p%20%C3%A1nh%20s%C3%A1ng/4.jpg?raw=true"
+      ],
+      "variants": {
+        "sizes": ["Cao 140cm", "Cao 160cm", "Cao 180cm"],
+        "materials": ["Kim loại sơn tĩnh điện", "Nhôm", "Thép không gỉ"],
+        "colors": [
+          { "name": "Đen mờ", "code": "#2F2F2F" },
+          { "name": "Trắng", "code": "#F5F5F5" },
+          { "name": "Vàng đồng", "code": "#B8860B" }
+        ]
+      },
+      "stock": 30,
+      "sku": "FLOORLIGHT-011",
+      "features": [
+        "Thân kim loại bền bỉ, đế đá chắc chắn",
+        "Chụp đèn xoay 360° linh hoạt",
+        "Công tắc cảm ứng 3 cấp ánh sáng",
+        "Tiết kiệm điện, công suất 15W",
+        "Thiết kế thanh mảnh, sang trọng"
+      ],
+      "specifications": {
+        "material": "Kim loại + đế đá",
+        "sizes": ["Cao 140cm", "Cao 160cm", "Cao 180cm"],
+        "colors": ["Đen mờ", "Trắng", "Vàng đồng"],
+        "surface": "Sơn tĩnh điện",
+        "style": "Hiện đại, tối giản",
+        "warranty": "12 tháng"
+      },
+      "shipping": {
+        "freeShipping": true,
+        "minimumOrder": 1500000,
+        "returnDays": 7,
+        "warrantyMonths": 12
+      },
+      "tags": ["Đèn cây", "LED", "Phòng khách", "Đọc sách", "3 chế độ"],
+      "isFeatured": true,
+      "status": "ACTIVE",
+      "createdAt": "2026-07-11T17:30:00Z"
+    },
+    {
+      "id": 12,
+      "name": "Bộ bàn ghế sân vườn nhôm - mây",
+      "slug": "bo-ban-ghe-san-vuon-nhom-may",
+      "category": "Ngoài trời",
+      "brand": "Furniture",
+      "price": 14500000,
+      "oldPrice": 18900000,
+      "discount": 23,
+      "rating": 4.7,
+      "reviewCount": 84,
+      "sold": 56,
+      "shortDescription": "Bộ bàn ghế sân vườn gồm 1 bàn + 4 ghế, khung nhôm chống gỉ, mặt mây tự nhiên, đệm mút dày, thích hợp cho ban công và sân thượng.",
+      "description": "Bộ bàn ghế sân vườn cao cấp với khung nhôm sơn tĩnh điện chịu thời tiết, mặt mây tự nhiên đan tỉ mỉ. Ghế có đệm mút dày 10cm bọc vải polyester chống nắng, thoáng khí. Bàn mặt kính cường lực 8mm chịu lực, dễ lau chùi. Thiết kế gọn nhẹ, có thể xếp chồng ghế để tiết kiệm không gian khi không sử dụng. Phù hợp cho sân vườn, ban công, bể bơi hoặc sân thượng.",
+      "images": [
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/B%E1%BB%99%20b%C3%A0n%20gh%E1%BA%BF%20s%C3%A2n%20v%C6%B0%E1%BB%9Dn%20nh%C3%B4m%20-%20m%C3%A2y/1.jpg?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/B%E1%BB%99%20b%C3%A0n%20gh%E1%BA%BF%20s%C3%A2n%20v%C6%B0%E1%BB%9Dn%20nh%C3%B4m%20-%20m%C3%A2y/2.jpg?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/B%E1%BB%99%20b%C3%A0n%20gh%E1%BA%BF%20s%C3%A2n%20v%C6%B0%E1%BB%9Dn%20nh%C3%B4m%20-%20m%C3%A2y/3.jpg?raw=true",
+        "https://github.com/manhnguyen123pdu/image/blob/master/image/Product/B%E1%BB%99%20b%C3%A0n%20gh%E1%BA%BF%20s%C3%A2n%20v%C6%B0%E1%BB%9Dn%20nh%C3%B4m%20-%20m%C3%A2y/4.jpg?raw=true"
+      ],
+      "variants": {
+        "sizes": ["Bàn 100x60cm", "Bàn 120x70cm", "Bàn 140x80cm"],
+        "materials": [
+          "Nhôm + mây + kính",
+          "Thép sơn tĩnh điện + mây",
+          "Gỗ tự nhiên + mây"
+        ],
+        "colors": [
+          { "name": "Nâu mây", "code": "#8B6914" },
+          { "name": "Đen", "code": "#1A1A1A" },
+          { "name": "Trắng kem", "code": "#FFF8DC" }
+        ]
+      },
+      "stock": 12,
+      "sku": "OUTDOOR-012",
+      "features": [
+        "Khung nhôm chống gỉ, bền ngoài trời",
+        "Mặt mây tự nhiên đan thủ công",
+        "Đệm mút dày bọc vải chống nắng",
+        "Mặt bàn kính cường lực 8mm",
+        "Ghế có thể xếp chồng lên nhau"
+      ],
+      "specifications": {
+        "material": "Nhôm + mây tự nhiên",
+        "sizes": ["100x60cm", "120x70cm", "140x80cm"],
+        "colors": ["Nâu mây", "Đen", "Trắng kem"],
+        "surface": "Sơn tĩnh điện + kính cường lực",
+        "style": "Ngoài trời, hiện đại",
+        "warranty": "24 tháng"
+      },
+      "shipping": {
+        "freeShipping": false,
+        "minimumOrder": 5000000,
+        "returnDays": 14,
+        "warrantyMonths": 24
+      },
+      "tags": ["Bàn ghế sân vườn", "Ngoài trời", "Mây", "Nhôm", "Ban công"],
+      "isFeatured": true,
+      "status": "ACTIVE",
+      "createdAt": "2026-07-11T18:00:00Z"
+    }
+  ],
+  "category": {
+    "categories": [
+      {
+        "id": 1,
+        "name": "Sofa",
+        "slug": "sofa",
+        "image": "https://github.com/manhnguyen123pdu/image/blob/master/image/category/sofa.jpg?raw=true"
+      },
+      {
+        "id": 2,
+        "name": "Bàn ghế",
+        "slug": "ban-ghe",
+        "image": "https://github.com/manhnguyen123pdu/image/blob/master/image/category/b%C3%A0n%20gh%E1%BA%BF.webp?raw=true"
+      },
+      {
+        "id": 3,
+        "name": "Giường ngủ",
+        "slug": "giuong-ngu",
+        "image": "https://github.com/manhnguyen123pdu/image/blob/master/image/category/bed.jpg?raw=true"
+      },
+      {
+        "id": 4,
+        "name": "Tủ & Kệ",
+        "slug": "tu-ke",
+        "image": "https://github.com/manhnguyen123pdu/image/blob/master/image/category/T%E1%BB%A7%20k%E1%BB%87.webp?raw=true"
+      },
+      {
+        "id": 5,
+        "name": "Trang trí",
+        "slug": "trang-tri",
+        "image": "https://github.com/manhnguyen123pdu/image/blob/master/image/category/decor.jpg?raw=true"
+      },
+      {
+        "id": 6,
+        "name": "Đèn trang trí",
+        "slug": "den-trang-tri",
+        "image": "https://github.com/manhnguyen123pdu/image/blob/master/image/category/lamp.jpg?raw=true"
+      },
+      {
+        "id": 7,
+        "name": "Ngoài trời",
+        "slug": "ngoai-troi",
+        "image": "https://github.com/manhnguyen123pdu/image/blob/master/image/category/outdoor.jpg?raw=true"
+      }
+    ]
+  },
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Nguyễn Văn An",
+      "email": "an.nguyen@gmail.com",
+      "password": "123456",
+      "phone": "0987654321",
+      "avatar": "https://i.pravatar.cc/150?img=1",
+      "role": "USER",
+      "gender": "Nam",
+      "dateOfBirth": "1999-05-12",
+      "status": "ACTIVE",
+      "createdAt": "2026-07-01T09:30:00",
+      "address": {
+        "street": "123 Nguyễn Huệ",
+        "ward": "Phường Bến Nghé",
+        "district": "Quận 1",
+        "province": "TP Hồ Chí Minh"
+      }
+    },
+    {
+      "id": 2,
+      "fullName": "Trần Thị Bình",
+      "email": "binh.tran@gmail.com",
+      "password": "123456",
+      "phone": "0912345678",
+      "avatar": "https://i.pravatar.cc/150?img=5",
+      "role": "USER",
+      "gender": "Nữ",
+      "dateOfBirth": "2000-09-20",
+      "status": "ACTIVE",
+      "createdAt": "2026-07-02T14:20:00",
+      "address": {
+        "street": "45 Lê Lợi",
+        "ward": "Phường 7",
+        "district": "Quận Gò Vấp",
+        "province": "TP Hồ Chí Minh"
+      }
+    },
+    {
+      "id": 3,
+      "fullName": "Lê Quốc Huy",
+      "email": "huy.le@gmail.com",
+      "password": "123456",
+      "phone": "0933555777",
+      "avatar": "https://i.pravatar.cc/150?img=8",
+      "role": "USER",
+      "gender": "Nam",
+      "dateOfBirth": "1998-11-15",
+      "status": "ACTIVE",
+      "createdAt": "2026-07-03T08:10:00",
+      "address": {
+        "street": "88 Trần Hưng Đạo",
+        "ward": "Phường 5",
+        "district": "Quận 5",
+        "province": "TP Hồ Chí Minh"
+      }
+    },
+    {
+      "id": 4,
+      "fullName": "Phạm Minh Anh",
+      "email": "admin@furniture.com",
+      "password": "admin123",
+      "phone": "0909999999",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "role": "ADMIN",
+      "gender": "Nam",
+      "dateOfBirth": "1995-02-18",
+      "status": "ACTIVE",
+      "createdAt": "2026-06-20T10:00:00",
+      "address": {
+        "street": "12 Điện Biên Phủ",
+        "ward": "Phường 25",
+        "district": "Quận Bình Thạnh",
+        "province": "TP Hồ Chí Minh"
+      }
+    },
+    {
+      "id": 5,
+      "fullName": "Đỗ Thu Trang",
+      "email": "trang.do@gmail.com",
+      "password": "123456",
+      "phone": "0977444111",
+      "avatar": "https://i.pravatar.cc/150?img=20",
+      "role": "USER",
+      "gender": "Nữ",
+      "dateOfBirth": "2001-03-28",
+      "status": "BLOCKED",
+      "createdAt": "2026-07-05T16:45:00",
+      "address": {
+        "street": "56 Võ Văn Tần",
+        "ward": "Phường Võ Thị Sáu",
+        "district": "Quận 3",
+        "province": "TP Hồ Chí Minh"
+      }
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "userId": 1,
+      "products": [
+        {
+          "productId": 1,
+          "quantity": 1,
+          "price": 9900000
+        },
+        {
+          "productId": 8,
+          "quantity": 2,
+          "price": 3200000
+        }
+      ],
+      "shippingFee": 0,
+      "discount": 500000,
+      "total": 15800000,
+      "paymentMethod": "COD",
+      "status": "COMPLETED",
+      "createdAt": "2026-07-10T09:15:00"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "products": [
+        {
+          "productId": 2,
+          "quantity": 1,
+          "price": 15800000
+        }
+      ],
+      "shippingFee": 0,
+      "discount": 800000,
+      "total": 15000000,
+      "paymentMethod": "BANKING",
+      "status": "SHIPPING",
+      "createdAt": "2026-07-10T14:20:00"
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "products": [
+        {
+          "productId": 3,
+          "quantity": 1,
+          "price": 22500000
+        },
+        {
+          "productId": 7,
+          "quantity": 6,
+          "price": 2900000
+        }
+      ],
+      "shippingFee": 0,
+      "discount": 2000000,
+      "total": 37900000,
+      "paymentMethod": "COD",
+      "status": "PENDING",
+      "createdAt": "2026-07-11T08:45:00"
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "products": [
+        {
+          "productId": 6,
+          "quantity": 2,
+          "price": 3900000
+        },
+        {
+          "productId": 10,
+          "quantity": 1,
+          "price": 2800000
+        },
+        {
+          "productId": 11,
+          "quantity": 1,
+          "price": 3900000
+        }
+      ],
+      "shippingFee": 0,
+      "discount": 300000,
+      "total": 14200000,
+      "paymentMethod": "MOMO",
+      "status": "DELIVERED",
+      "createdAt": "2026-07-09T16:30:00"
+    },
+    {
+      "id": 5,
+      "userId": 5,
+      "products": [
+        {
+          "productId": 12,
+          "quantity": 1,
+          "price": 14500000
+        },
+        {
+          "productId": 9,
+          "quantity": 2,
+          "price": 4600000
+        }
+      ],
+      "shippingFee": 300000,
+      "discount": 1000000,
+      "total": 23000000,
+      "paymentMethod": "VISA",
+      "status": "CANCELLED",
+      "createdAt": "2026-07-08T10:00:00"
+    }
+  ]
+}

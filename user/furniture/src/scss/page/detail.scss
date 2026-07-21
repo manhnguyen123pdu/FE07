@@ -1,0 +1,172 @@
+.detail {
+    .content {
+        max-width: 1250px;
+        margin: auto;
+
+        .breadCum {
+            margin: 30px 0;
+            @include text($cl-1, $fz-1, 500, 0, 0);
+
+            span {
+                font-weight: 600;
+            }
+        }
+
+        .detail__info {
+            display: flex;
+            gap: 40px;
+            .image-info {
+                flex: 1;
+                .main-img {
+                    width: 100%;
+                    height: 600px;
+                    object-fit: cover;
+                    border-radius: 8px;
+                }
+
+                .nav-img {
+                    margin: 20px 0;
+                    display: flex;
+                    gap: 15px;
+                    cursor: pointer;
+                    img {
+                        width: 100px;
+                        height: 100px;
+                    }
+                }
+            }
+
+            .des-info {
+                flex: 1;
+                .des__category{
+                    @include text($cl-1, $fz-1,400,0,0);
+                }
+                h3{
+                    margin: 10px 0;
+                    font-size: 35px;
+                }
+                .vote{
+                    i{
+                        color: $cl-2;
+                    }
+                }
+                .price{
+                    margin: 15px 0;
+                    display: flex;
+                    align-items: end;
+                    h3{
+                        margin: 0;
+                        font-size: 30px;
+                        font-weight: 600px;
+                    }
+                    p{
+                        margin: 0 15px ;
+                        text-decoration: line-through;
+                        @include text($cl-1, $fz-2,400, 0 ,0)
+                    }
+                    span{
+                        padding:  0 10px;
+                        background-color: $cl-4;
+                        @include text($cl-2, $fz-2,600, 0 ,0)
+
+                    }
+                }
+                .size{
+                    margin: 15px 0;
+                    p{
+                        font-weight: bold;
+                    }
+                    button{
+                        margin-top: 8px;
+                        margin-right: 8px;
+                        padding: 8px 20px;
+                        border: 1px solid gray;
+                        background-color: transparent;
+                        border-radius: 8px;
+                    }
+                }
+                .color{
+                    margin: 15px 0;
+                    p{
+                        font-weight: bold;
+                    }
+                    button{
+                        margin-top: 8px;
+                        margin-right: 8px;
+                        padding: 20px 20px;
+                        border: 1px solid gray;
+                        background-color: transparent;
+                        border-radius: 100%;
+                    }
+                }
+                .quantity{
+                    display: flex;
+                    align-items: center;
+                    p{
+                        margin-right: 30px;
+                    }
+                }
+                button{
+                   padding: 5px 20px;
+                   border: 1px solid gray;
+                   background-color: transparent;
+                } 
+                input{
+                    width: 60px;
+                    padding: 5px 20px;
+                   border: 1px solid gray;
+                }
+            }
+            .purchase{
+                margin-top: 15px;
+                display: flex;
+                gap:20px;
+                button{
+                    padding: 10px 0;
+                    flex:1;
+                    border-radius: 8px;
+                }
+                .add-cart{
+                    border: 2px solid $cl-2;
+                    color: $cl-2;
+                    font-weight: 600;
+                }
+                .buy-now{
+                    border: 2px solid $cl-2;
+                    background-color: $cl-2;
+                    font-weight: 600;
+                    color: $cl-0;
+                }
+                
+            }
+
+        }
+        .detail-desc{
+            button{
+                color: black;
+                font-weight: 500;
+            }
+            #nav-home{
+                margin-top: 15px;
+                display: flex;
+                justify-content: space-between;
+                .text-desc{
+                   width: 65%;
+                   p{
+                    margin: 5px 0;
+                   }
+                }
+                img{
+                    width: 30%;
+                }
+            }
+        }
+        .relate{
+            margin: 20px 0;
+        }
+    }
+}
+
+.active1{
+    border: 3px solid rgb(255, 6, 172)!important;
+}

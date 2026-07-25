@@ -1,0 +1,140 @@
+.check-out {
+    max-width: 1250px;
+    margin: auto;
+
+    .bread-cumb {
+        margin-top: 30px;
+        color: $cl-1;
+    }
+
+    h3 {
+        margin: 20px 0;
+    }
+
+    .check-out__content {
+        display: flex;
+        justify-content: space-between;
+
+        .check-out__left {
+            width: 65%;
+
+            .info-shipping {
+                input {
+                    padding: 5px;
+                    width: 100%;
+                }
+
+                textarea {
+                    padding: 5px;
+                    width: 100%;
+                    height: 100px;
+                }
+
+                label {
+                    margin-top: 15px;
+                }
+
+                .info {
+                    display: flex;
+                    gap: 20px;
+
+                    div {
+                        flex: 1;
+                    }
+                }
+
+                .address {
+                    display: flex;
+                    gap: 20px;
+
+                    div {
+                        flex: 1;
+                    }
+                }
+            }
+
+            .shipping-delevery {
+                margin-top: 15px;
+                ;
+
+                .shipping-item {
+                    padding: 7px;
+                    border: 1px solid rgb(215, 213, 213);
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+
+                    input {
+                        margin-right: 10px;
+                    }
+
+                    p {
+                        margin: 0;
+                    }
+
+                    div {
+                        display: flex;
+
+
+                    }
+                }
+            }
+
+            button{
+                margin-top: 25px;
+                padding: 10px 50px;
+                background-color: $cl-2;
+                color: white;
+                font-weight: bold;
+            }
+        }
+
+        .check-out__right {
+            padding: 15px;
+            width: 32%;
+            background-color: rgb(243, 243, 243);
+
+            h3 {
+                font-size: $fz-5;
+            }
+
+            .cart-item {
+                margin-top: 25px;
+                display: flex;
+                gap: 15px;
+
+                img {
+                    width: 100px;
+                    height: 100%;
+                    border-radius: 8px;
+                }
+
+                .cart-text {
+                    width: 100%;
+
+                    h5 {
+                        font-size: $fz-3;
+                    }
+
+                    p {
+                        font-size: $fz-1;
+                    }
+
+                    .price {
+                        display: flex;
+                        justify-content: space-between;
+                    }
+                }
+
+            }
+
+            .info-purchase {
+                .text {
+                    margin-top: 15px;
+                    display: flex;
+                    justify-content: space-between;
+                }
+            }
+        }
+    }
+}

@@ -8,9 +8,10 @@ import Benifit from '../component/Benifit';
 import Item from '../component/Item';
 
 export default function Detail() {
+
     let dispatch = useDispatch();
     let param = useParams();
-    let id = param.id;
+    let id = param.id
     let product = useSelector((state) => state.product.currentProduct);
     let products = useSelector((state) => state.product.products);
     let [imgMain, setImgMain] = useState("") // lỗi 
@@ -18,7 +19,9 @@ export default function Detail() {
     useEffect(() => {
         dispatch(fetchProductByID(id))
         dispatch(fetchProduct());
-    }, [])
+    }, [id])
+
+
     useEffect(() => {
         if (!product?.id) return
         setImgMain(product.images[0]);
@@ -35,7 +38,7 @@ export default function Detail() {
 
     }, [product])
 
-
+ 
     let changeQuantity = (dau) => {
         // coppyobjec
         let newCartItem = { ...cartItem };

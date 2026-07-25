@@ -1,10 +1,12 @@
 import { Navigate } from "react-router-dom";
 
 export default function ProtectedRoute({ children }) {
-  // Kiểm tra trạng thái đăng nhập (từ localStorage, context, hoặc state)
-  const isLoggedIn = localStorage.getItem("auth") === "true";
-
-  // Nếu chưa login, chuyển về trang login
+  // LẤY USER TỪ LOCAL STOARE VỀ 
+  let user =  JSON.parse(localStorage.getItem("user"))
+  let isLoggedIn = false;
+  if(user!=null&& user.phone !=""){
+    isLoggedIn = true
+  }
   if (!isLoggedIn) {
     return <Navigate to="/login" replace />;
   }

@@ -1,7 +1,8 @@
 import { useFormik } from "formik"
 import axios from "axios"
+import { useNavigate, Link } from "react-router-dom"
 export default function Login() {
-
+    let navigate = useNavigate()
     let formik = useFormik({
         initialValues: {
             email: "",
@@ -13,7 +14,7 @@ export default function Login() {
                 let user = data.data[0];
                 user.password=""
                 localStorage.setItem("user", JSON.stringify(user))
-
+                navigate("/checkout")
                 }
 
             }
@@ -40,6 +41,7 @@ export default function Login() {
                 </div>
 
                 <button type="submit">Đăng nhập</button>
+                <Link to={"/signup"}>Đăng ký mới</Link>
             </form>
         </div>
     );

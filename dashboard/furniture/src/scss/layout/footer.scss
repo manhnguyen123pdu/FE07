@@ -1,0 +1,54 @@
+
+footer {
+    background-color: rgb(234, 234, 234);
+
+    .footer__content {
+        padding: 40px 0;
+        max-width: 1250px;
+        margin: auto;
+        display: flex;
+
+        .item {
+            h5 {
+                font-size: $fz-3;
+            }
+
+            ul,
+            p {
+                margin: 5px 0;
+                list-style: none;
+
+                li {
+                    font-size: $fz-2 ;
+                    color: rgb(91, 91, 91);
+                }
+
+            }
+
+            i {
+                font-size: 25px;
+                padding: 10px 20px;
+            }
+
+            button {
+                background-color: $cl-2;
+                color: white;
+                border: none;
+                padding: 7px 10px;
+            }
+
+            input {
+                border: 1px solid gray;
+                padding: 5px 10px;
+            }
+        }
+
+        .it1 {
+            width: 32%;
+        }
+
+        .it2 {
+            width: 17%;
+        }
+    }
+}

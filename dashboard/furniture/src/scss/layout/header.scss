@@ -1,0 +1,105 @@
+header {
+    position: relative;
+    z-index: 1;
+    .header__top {
+         background-color:$cl-2;
+        .content {
+            @include text(white,$fz-0,normal,1px, 0px);
+            max-width: 1250px;
+            padding: 15px;
+            margin: auto;
+            display: flex;
+            justify-content: space-between;
+            ul {
+                display: flex;
+                gap: 15px;
+                list-style: none;
+            }
+        }
+    }
+    .header__main{
+        max-width: 1250px;
+        margin:10px  auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        .logo{
+            img{
+                width: 150px;
+                cursor: pointer;
+            }
+        }
+        nav{
+           ul{
+             display: flex;
+             gap: 20px;
+             list-style: none;
+             li{
+                transition: 0.5s;
+                cursor: pointer;
+               border-bottom: 2px solid rgb(255, 255, 255);
+                @include text($cl-1,$fz-1,500, 0,0)
+             }
+             li:hover{
+               border-bottom: 2px solid gray
+             }
+           }
+        }
+       .info {
+    display: flex;
+    align-items: center;
+
+    .search {
+        position: relative;
+        margin-right: 20px;
+        border: 1px solid $cl-3;
+        border-radius: 8px;
+        overflow: visible;
+
+        input {
+            padding: 8px 10px;
+            border: none;
+            outline: none;
+        }
+
+        button {
+            padding: 8px 10px;
+            border: none;
+            background: $cl-0;
+            cursor: pointer;
+        }
+
+        .overlay {
+            position: absolute;
+            top: calc(100% + 5px);
+            left: 0;
+            width: 100%;
+            background: white;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            box-shadow: 0 2px 8px rgba(0,0,0,.15);
+            z-index: 9999;
+            .overlay-item{
+                margin:10px 5px;
+                display: flex;
+                gap: 10px;
+                align-items: center;
+                cursor: pointer;
+                img{
+                    width: 50px;
+                    height: 50px;
+                }
+                p{
+                    font-size: $fz-1;
+                }
+            }
+        }
+    }
+
+    .icon {
+        padding: 8px 20px;
+        cursor: pointer;
+    }
+}
+    }
+}

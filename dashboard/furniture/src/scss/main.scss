@@ -1,0 +1,18 @@
+// 1 helper
+@import "./helper/variable.scss";
+@import "./helper/mixin.scss";
+
+// 2. base
+@import "./base/reset.scss";
+
+// layout
+@import "./layout/footer.scss";
+@import "./layout/header.scss";
+
+// // component 
+// @import "./component/";
+
+// page
+@import "./page/login.scss";
+@import "./page/signUp.scss";
+@import "./page/hompage.scss";

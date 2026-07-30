@@ -1,0 +1,7 @@
+@mixin text($v1,$v2,$v3,$v4,$v5){
+    color: $v1;
+    font-size: $v2;
+    font-weight: $v3;
+    letter-spacing: $v4;
+    word-spacing: $v5;
+}
